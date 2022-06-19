@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Apuntes ISPC - Base de Datos's documentation!
+Bienvenidos/as a Apuntes ISPC - Base de Datos!
 ========================================================
 
 .. toctree::
