@@ -11,6 +11,11 @@ Bienvenidos/as a Apuntes ISPC - Base de Datos!
    :numbered:
    :caption: Contenidos:
 
+   notes/introduction
+   notes/glosario
+   notes/clasificacion
+   notes/models
+   notes/platforms
    notes/sp1
 
 
